@@ -1,4 +1,0 @@
-PySide6>=6.6
-psutil>=5.9
-# только для сборки EXE:
-pyinstaller>=6.0
